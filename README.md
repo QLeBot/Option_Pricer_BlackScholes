@@ -17,11 +17,6 @@ Built an UI option pricer based on Black-Scholes model
 
 📁 Project Files: `black_scholes_interactive.py`
 
-Run the script and open the link in your browser:
-```bash
-streamlit run black_scholes_interactive.py
-```
-
 ## 📦 Dependencies
 
 All dependencies are listed in the `environment.yml` and `requirements.txt`files.
