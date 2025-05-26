@@ -1,0 +1,14 @@
+name: option_pricer
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - pip
+  - pip:
+    - streamlit
